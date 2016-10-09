@@ -5,4 +5,4 @@
 		.ЗависитОт("cmdline")
 		.ЗависитОт("v8runner")
 		.ВключитьФайл("src")
-		.ИсполняемыйФайл("src/console-entry-point.os", "deployka");
+		.ИсполняемыйФайл("src/deployka.os", "deployka");
