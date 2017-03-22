@@ -1,8 +1,8 @@
 ﻿
 Описание.Имя("deployka")
-		.Версия("0.1.1")
+		.Версия("0.1.2")
 		.ЗависитОт("logos")
 		.ЗависитОт("cmdline")
 		.ЗависитОт("v8runner")
 		.ВключитьФайл("src")
-		.ИсполняемыйФайл("src/console-entry-point.os", "deployka");
+		.ИсполняемыйФайл("src/deployka.os", "deployka");
